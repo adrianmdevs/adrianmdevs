@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Charles%20Gitonga&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 </p>
 
-# 👋 Hola! I am Murigu Gitonga. Welcome to my Github account.
+# 👋 Murigu Gitonga
 
-🚀 Computer Scientist | 🎯 AI & Defence Tech Enthusiast  
-💻 Building intelligent systems for security, defense, and data-driven applications  
+🚀 Computer Scientist | 🎯 AI & Defence Tech Enthusiast |
+💻 Building intelligent systems for National security. 
 
 ---
 
