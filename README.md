@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Charles%20Gitonga&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 </p>
 
-# 👋 Hi, I'm Charles Gitonga  
+# 👋 Hola! I am Murigu Gitonga. Welcome to my Github account.
 
-🚀 Full-stack Developer | 🎯 AI & Defense Tech Enthusiast  
+🚀 Computer Scientist | 🎯 AI & Defence Tech Enthusiast  
 💻 Building intelligent systems for security, defense, and data-driven applications  
 
 ---
@@ -23,7 +23,7 @@
 ---
 
 ## 📌 Featured Projects
-- 🛰 [**SIGINT Classifier**](https://github.com/username/sigint-classifier) → PyTorch-based AI for signals classification  
+- 🛰 [**Data fusion war game Classifier**](https://github.com/username/sigint-classifier) → Tensorflow + Numpy + pytorch 
 - 🌦 [**Weather Prediction App**](https://github.com/username/weather-app) → FastAPI + Vue + MySQL  
 - 🖥 [**Portfolio Website**](https://murigu.com) → Vue 3 + TailwindCSS + animations  
 
@@ -31,21 +31,21 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adrianmdves&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmdevs&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://github.com/adrianmdevs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://murigu.com" target="_blank">
+  <a href="https://www.linkedin.com/in/charles-gitonga-915bab360" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:gitongacharlie01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
