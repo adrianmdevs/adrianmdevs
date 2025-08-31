@@ -1,9 +1,9 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Charles%20Gitonga&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Murigu%20Gitonga&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 </p>
 
-# 👋 Murigu Gitonga
+# 👋 Hi! Welcome to my Github account.
 
 🚀 Computer Scientist | 🎯 AI & Defence Tech Enthusiast |
 💻 Building intelligent systems for National security. 
@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianmdves&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adrianmdevs&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmdevs&layout=compact&theme=radical" height="180" />
 </p>
 
@@ -39,10 +39,10 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/adrianmdevs" target="_blank">
+  <a href="https://www.linkedin.com/in/charles-gitonga-915bab360" target="_blank" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/charles-gitonga-915bab360" target="_blank">
+  <a href="https://github.com/adrianmdevs">
     <img src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:gitongacharlie01@gmail.com" target="_blank">
